@@ -20,11 +20,11 @@
 	top: 0;
 	width: 100%; /* necessary for non-active slides */
 	display: block; /* overrides basic carousel styles */
-	-webkit-transition: opacity .5s ease;
-	-moz-transition: opacity .5s ease;
-	-ms-transition: opacity .5s ease;
-	-o-transition: opacity .5s ease;
-	transition: opacity .5s ease;
+	-webkit-transition: opacity 2s ease;
+	-moz-transition: opacity 2s ease;
+	-ms-transition: opacity 2s ease;
+	-o-transition: opacity 2s ease;
+	transition: opacity 2s ease;
 }
 .carousel-fade .carousel-active {
 	position: relative;

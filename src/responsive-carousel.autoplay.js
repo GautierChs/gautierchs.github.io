@@ -8,7 +8,7 @@
 
 (function( $, undefined ) {
 	var pluginName = "carousel",
-		interval = 4000,
+		interval = 6000,
 		autoPlayMethods = {
 			play: function(){
 				var $self = $( this ),

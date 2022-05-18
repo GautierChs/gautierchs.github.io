@@ -90,7 +90,7 @@ nav ul li a:hover{
         opacity: 0.78;
         height: 80px;
         width: 100%;
-        position: fixed;
+        position: float;
         border-bottom: 2px solid white;
     }
 
@@ -136,6 +136,12 @@ nav ul li a:hover{
         display: flex;
         flex-direction: column;
         justify-content: center;
+    }
+
+    img {
+        margin-top: 80px;
+        height: 500px;
+        max-height: auto;
     }
     
 }
